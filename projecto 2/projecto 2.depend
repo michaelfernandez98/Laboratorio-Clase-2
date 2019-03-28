@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1553783954 source:d:\michael\projecto 2\main.c
+	<stdio.h>
+	<stdlib.h>
+	"biblioteca.h"
+
+1553781759 d:\michael\projecto 2\biblioteca.h
+
+1553782365 source:d:\michael\projecto 2\biblioteca.c
+	<stdio.h>
+	"biblioteca.h"
+
